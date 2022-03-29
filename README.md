@@ -1,4 +1,4 @@
-<img src="" alt="app" />
+<img src="https://github.com/xNoJustice/react-countdown-app2/blob/d1c4cb733f5558b92640fbd23d4b267e469f955c/app.gif" alt="app" />
 
 # Getting Started with Create React App
 
